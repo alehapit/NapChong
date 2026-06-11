@@ -1,0 +1,15 @@
+D:\LEARNING\huong_dt\bai_tap\Operator\bin\Debug\net8.0\PhanSo.exe
+D:\LEARNING\huong_dt\bai_tap\Operator\bin\Debug\net8.0\PhanSo.deps.json
+D:\LEARNING\huong_dt\bai_tap\Operator\bin\Debug\net8.0\PhanSo.runtimeconfig.json
+D:\LEARNING\huong_dt\bai_tap\Operator\bin\Debug\net8.0\PhanSo.dll
+D:\LEARNING\huong_dt\bai_tap\Operator\bin\Debug\net8.0\PhanSo.pdb
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.AssemblyInfoInputs.cache
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.AssemblyInfo.cs
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.csproj.CoreCompileInputs.cache
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.sourcelink.json
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.dll
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\refint\PhanSo.dll
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.pdb
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\PhanSo.genruntimeconfig.cache
+D:\LEARNING\huong_dt\bai_tap\Operator\obj\Debug\net8.0\ref\PhanSo.dll
