@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37027.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanSo", "PhanSo\PhanSo.csproj", "{3E232370-2940-45AD-B770-5C779AEEC9A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanSo", "PhanSo.csproj", "{3E232370-2940-45AD-B770-5C779AEEC9A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
